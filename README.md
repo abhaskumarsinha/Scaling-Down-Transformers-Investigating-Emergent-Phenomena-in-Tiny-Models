@@ -1,8 +1,8 @@
 # Scaling-Down-Transformers-Investigating-Emergent-Phenomena-in-Tiny-Models
 
-This repository is the code of the paper, *Scaling Down Transformers: Investigating Emergent Phenomena in Tiny Models* by Abhas Kumar Sinha
+This repository is the code of the paper, *Scaling Down Transformers: Investigating Emergent Phenomena in Tiny Models* by `Abhas Kumar Sinha`.
 
-## **Abstrct**
+## **Abstract**
 
 
 <p align='justify'>In this paper, we investigate the emergent learning capabilities of autoregressive
