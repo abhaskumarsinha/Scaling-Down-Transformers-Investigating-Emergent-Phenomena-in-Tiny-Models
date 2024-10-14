@@ -42,6 +42,5 @@ git clone https://www.github.com/abhaskumarsinha/Corpus2GPT.git
 The notebooks are **NOT** reproduceable. Although they can be rerun to have similar results.
 
 # References
-1. Sinha, A.K. (2024) Corpus2GPT. _GitHub Repository_. Available at: https://github.com/
-abhaskumarsinha/Corpus2GPT/.
+1. Sinha, A.K. (2024) Corpus2GPT. _GitHub Repository_. Available at: https://github.com/abhaskumarsinha/Corpus2GPT/.
 
